@@ -66,11 +66,12 @@
         android:textSize="40sp" />
 
     <Button
+        android:id="@+id/buttonCalculate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:padding="28dp"
-        android:text="Calcular"
+        android:padding="20sp"
+        android:text="@string/calcular"
         android:textSize="20sp" />
 
 </LinearLayout>
